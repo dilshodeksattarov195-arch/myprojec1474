@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchfncrypt",
+        "uuid": 642664,
+        "checksum": "j1w8fl"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
